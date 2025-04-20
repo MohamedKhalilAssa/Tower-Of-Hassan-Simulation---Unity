@@ -1,49 +1,50 @@
+# 🏛️ **Unity 3D Moroccan Monument Project**
 
-# 🏛️ Unity 3D Moroccan Monument Project
+## 📌 **Project Overview**
 
-This Unity project showcases a 3D environment inspired by historical Moroccan architecture, featuring a central tower and surrounding columns. The player can move freely in the environment with smooth camera control, interaction logic, and animations.
+This project recreates the **Hassan Tower**, a historical Moroccan monument, in a 3D virtual environment. Players can navigate the scene using both first-person and third-person controls, with modular architecture and clean animation logic. The goal is to promote Moroccan heritage by utilizing digital tools and technology to preserve our culture and traditions.
 
----
-
-## 📌 Project Description
-
-This 3D scene replicates the **Hassan Tower**  recreating a culturally rich environment. The player can navigate using first-person or third-person controls, supported by a modular architecture and clean animation logic.
-The purpose of this project is to promote our Moroccan heritage and demonstrate how digital tools and technology can be used to preserve our culture and traditions.
 ---
 
 ![image](https://github.com/user-attachments/assets/024c7156-456e-4502-aac9-1c5348d26850)
 
 ---
-## 🎮 Features
 
-- 🏃‍♂️ **Player Movement** with keyboard input.
-- 🎥 **Camera Control** using mouse look and follow logic.
-- 🧠 **Custom Scripts**:
-  - `PlayerMovement`
-  - `PlayerMouseLook`
-  - `ThirdPersonCameraFollow`
-- 🗺️ **Scene Composition**:
-  - `FloorPlane`, `Lighting`, and `Skybox`
-  - Realistic asset placement with historical architecture (tower + columns).
-- 🎨 **Materials & Textures** for realism (e.g. stone, tile).
-- 🧩 Organized hierarchy for ease of extension (Player, Environment, Towers, etc.).
+## 🎮 **Features**
+
+- **🏃‍♂️ Player Movement**: Move using keyboard inputs for smooth navigation.
+- **🎥 Camera Control**: Utilize mouse look and follow logic for seamless camera movement.
+- **🧠 Custom Scripts**: 
+  - `PlayerMovement`: Handles player motion.
+  - `PlayerMouseLook`: Controls the mouse look functionality.
+  - `ThirdPersonCameraFollow`: Follows the player in third-person view.
+- **🗺️ Scene Composition**: 
+  - Includes `FloorPlane`, realistic lighting, and a skybox.
+  - Asset placement is true to the architecture of Hassan Tower, with the tower and columns.
+- **🎨 Materials & Textures**: Textures such as stone and tile for added realism.
+- **🧩 Organized Hierarchy**: Clean and extensible architecture with distinct categories (e.g., Player, Environment, Towers).
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 **Technologies Used**
 
-- Unity 2022/2023+
-- C#
-- Blender Assets (imported FBX/OBJ)
-- Git for version control
+- **Unity** (2022/2023+)
+- **C#**
+- **Blender** (for asset creation, FBX/OBJ import)
+- **Git** (version control)
 
---- 
-## Links Towards the project
-🎥 [Presentation Video (Drive)](https://drive.google.com/drive/folders/1dc7PUUz9ebN75X6SbJE526vdzgh-B0et?usp=sharing)
-📝 [Project Report (Drive)](https://drive.google.com/drive/folders/1cT6Sh4-pSfA5A-zGg8UfYgfYjF7q38-3?usp=sharing)
 ---
-## 👥 Developed By
-Mohamed Khalil ASSADDIKI
-Alae Eddine JAHID
-Supervised by Prof. Amina RADGUI
-INPT — 1st Year, Engineering Cycle - ASEDS
+
+## 🔗 **Project Links**
+
+- 🎥 [**Presentation Video**](https://drive.google.com/drive/folders/1dc7PUUz9ebN75X6SbJE526vdzgh-B0et?usp=sharing)
+- 📝 [**Project Report**](https://drive.google.com/drive/folders/1cT6Sh4-pSfA5A-zGg8UfYgfYjF7q38-3?usp=sharing)
+
+---
+
+## 👥 **Developed By**
+
+- **Mohamed Khalil ASSADDIKI**  
+- **Alae Eddine JAHID**  
+- **Supervised by Prof. Amina RADGUI**  
+- **INPT — 1st Year, Engineering Cycle - ASEDS**
