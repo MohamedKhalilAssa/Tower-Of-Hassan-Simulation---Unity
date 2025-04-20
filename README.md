@@ -36,10 +36,10 @@ This project recreates the **Hassan Tower**, a historical Moroccan monument, in 
 ---
 
 ## 🔗 **Project Links**
-
+- [My colleague's Repo](https://github.com/Alae-J/hassan-tower-vr)
 - 🎥 [**Presentation Video**](https://drive.google.com/drive/folders/1dc7PUUz9ebN75X6SbJE526vdzgh-B0et?usp=sharing)
 - 📝 [**Project Report**](https://drive.google.com/drive/folders/1cT6Sh4-pSfA5A-zGg8UfYgfYjF7q38-3?usp=sharing)
-
+- [The .rar File for the project](https://drive.google.com/drive/folders/1TW0m2ezG0LS2CQX9unj_VeBI9tGbcgPt?usp=sharing)
 ---
 
 ## 👥 **Developed By**
